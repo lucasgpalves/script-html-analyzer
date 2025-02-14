@@ -2,4 +2,4 @@
 bin
 lib
 
-src/*.class
+*.class
